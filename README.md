@@ -3,7 +3,7 @@
 <h1 align="center">Hi there 👋, My name is Miloš</h1>
 <h2 align="center">I am Software Developer</h2>
 
-- 🔭 I’m currently working on [Tic Tac toe game](https://github.com/milosdjurica/ticTacToe)
+- 🔭 I’m currently working on [Game Of Life](https://github.com/milosdjurica/gameOfLife)
 
 - 🌱 I’m currently learning **about neural networks**
 
