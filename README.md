@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **about neural networks**
 
-- 👨‍💻 Also, i am doing [Codewars](https://github.com/milosdjurica/codewars) and [Leetcode](https://github.com/milosdjurica/leetcode) challenges every day!
+- 👨‍💻 Also, i’m doing [Codewars](https://github.com/milosdjurica/codewars) and [Leetcode](https://github.com/milosdjurica/leetcode) challenges every day!
 
 - 📫 How to reach me? Connect with me on [linkedIn](https://www.linkedin.com/in/milosdjurica/)
 
