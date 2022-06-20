@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **about neural networks**
 
-- 👨‍💻 Also, i’m doing [Codewars](https://github.com/milosdjurica/codewars) and [Leetcode](https://github.com/milosdjurica/leetcode) challenges every day!
+- 👨‍💻 Also, i’m solving [Codewars](https://github.com/milosdjurica/codewars) and [Leetcode](https://github.com/milosdjurica/leetcode) challenges every day!
 
 - 📫 How to reach me? Connect with me on [linkedIn](https://www.linkedin.com/in/milosdjurica/)
 
-- 💬 Ask me about **anything you want!**
+- 💬 Ask me about **anything!**
 
 - 🤝 I’m looking for help with **tensorflow**
 
