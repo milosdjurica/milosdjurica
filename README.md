@@ -3,13 +3,13 @@
 <h1 align="center">Hi there 👋, My name is Miloš Đurica</h1>
 <h2 align="center">I am Software Developer</h2>
 
-- 🔭 I’m currently working on [Personal project in Nestjs](https://github.com/milosdjurica/projections-nestjs)
+- 🔭 I’m currently working on [Personal project in NestJS](https://github.com/milosdjurica/projections-nestjs)
 
-- 🌱 I’m currently learning **Nestjs and Spring**
+- 🌱 I’m currently learning **NestJS and Spring**
 
 - 👨‍💻 Also, i’m solving [Codewars](https://github.com/milosdjurica/codewars) and [Leetcode](https://github.com/milosdjurica/leetcode) challenges almost every day!
 
-- 🤝 I’m looking for help with **tensorflow.js**
+- 🤝 I’m looking for help with **Tensorflow.js**
 
 - 📫 How to reach me? Connect with me on [linkedIn](https://www.linkedin.com/in/milosdjurica/)
 
