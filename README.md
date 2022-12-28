@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/98367287/171473890-7c9f26e1-0a01-48c6-baf3-8fc1a8f7334f.png)
+![image](https://user-images.githubusercontent.com/98367287/209850264-d007d948-bcd1-4133-8c50-694aaa7859ae.png)
 
 <h1 align="center">Hi there 👋, My name is Miloš Đurica</h1>
 <h2 align="center">I am Software Developer</h2>
