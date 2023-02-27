@@ -3,9 +3,9 @@
 <h1 align="center">Hi there 👋, My name is Miloš Đurica</h1>
 <h2 align="center">I am Software Developer</h2>
 
-- 🔭 I’m currently working on [Personal project in NestJS](https://github.com/milosdjurica/projections-nestjs)
+- 🔭 I’m currently working on [My personal portfolio in Next.js](https://github.com/milosdjurica/portfolio-nextjs)
 
-- 🌱 I’m currently learning **NestJS and Spring**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 Also, i’m solving [Codewars](https://github.com/milosdjurica/codewars) and [Leetcode](https://github.com/milosdjurica/leetcode) challenges almost every day!
 
