@@ -3,13 +3,13 @@
 <h1 align="center">Hi there 👋, My name is Miloš Đurica</h1>
 <h2 align="center">I am Software Developer</h2>
 
-- 🔭 I’m currently working on [My personal portfolio in Next.js](https://github.com/milosdjurica/portfolio-nextjs)
+- 🔭 I’m currently working on [My personal portfolio in Next.js](https://github.com/milosdjurica/portfolio)
 
 - 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 Also, i’m solving [Codewars](https://github.com/milosdjurica/codewars) and [Leetcode](https://github.com/milosdjurica/leetcode) challenges almost every day!
 
-- 🤝 I’m looking for help with **Tensorflow.js**
+- 🤝 I’m looking for help with **Redux**
 
 - 📫 How to reach me? Connect with me on [linkedIn](https://www.linkedin.com/in/milosdjurica/)
 
