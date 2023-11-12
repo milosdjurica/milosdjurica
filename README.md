@@ -3,7 +3,7 @@
 <h1 align="center">Hi there 👋, My name is Miloš Đurica</h1>
 <h2 align="center">I am Front End oriented Software Developer</h2>
 
-- 🔭 I’m currently working on [Spotify clone with Next.js and Supabase](https://github.com/milosdjurica/spotify-clone)
+- 🔭 I’m currently working on updating my [Portfoilo Website](https://github.com/milosdjurica/portfolio) from pages to App directory in Next.js.
 
 - 🌱 I’m currently learning **Next.js**
 
