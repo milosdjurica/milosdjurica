@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [Movies Backend App in NestJS.](https://github.com/milosdjurica/nestjs-movies)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Solidity**. If you have any tips and tricks about it, feel free to reach out!
 
-- 👨‍💻 When i have extra time, I enjoy solving coding challenges. You can check my progress on  [Codewars](https://github.com/milosdjurica/codewars) and [Leetcode](https://github.com/milosdjurica/leetcode) repositories
+- 👨‍💻 When i have extra time, I enjoy solving coding challenges. You can check my progress on  [Codewars](https://github.com/milosdjurica/codewars) and [Leetcode](https://github.com/milosdjurica/leetcode) repositories.
 
-- 🤝 I’m looking for help with **Database design** for my Blog app
+- 🤝 I’m looking for help with **Solidity**.
 
-- 📫 How to reach me? Connect with me on [LinkedIn](https://www.linkedin.com/in/milosdjurica/)
+- 📫 How to reach me? Connect with me on [LinkedIn](https://www.linkedin.com/in/milosdjurica/)!
 
 
 ## Connect with me  
