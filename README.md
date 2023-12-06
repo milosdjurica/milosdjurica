@@ -3,7 +3,7 @@
 <h1 align="center">Hi there 👋, My name is Miloš Đurica</h1>
 <h2 align="center">I am Front End oriented Software Developer</h2>
 
-- 🔭 I’m currently working on [Movies Backend App in NestJS.](https://github.com/milosdjurica/nestjs-movies)
+- 🔭 I’m currently working on creating a [DeFi StableCoin in Solidity.](https://github.com/milosdjurica/defi-stablecoin-foundry)
 
 - 🌱 I’m currently learning **Solidity**. If you have any tips and tricks about it, feel free to reach out!
 
