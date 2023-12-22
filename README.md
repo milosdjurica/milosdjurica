@@ -3,15 +3,17 @@
 <h1 align="center">Hi there 👋, My name is Miloš Đurica</h1>
 <h2 align="center">I am a Full Stack Software Developer</h2>
 
-<!----
-🔭 I’m currently working on creating a [StableCoin with Foundry.](https://github.com/milosdjurica/stablecoin-foundry) 
+<!--- 
+- 🔭 I’m currently working on creating a [StableCoin with Foundry.](https://github.com/milosdjurica/stablecoin-foundry) 
 -->
 
 - 🌱 I’m currently learning **Solidity**. If you have any tips and tricks about it, feel free to reach out!
 
 - 👨‍💻 When i have extra time, I enjoy solving coding challenges. You can check my progress on  [Codewars](https://github.com/milosdjurica/codewars) and [Leetcode](https://github.com/milosdjurica/leetcode) repositories.
 
+<!--- 
 - 🤝 I’m looking for help with **Solidity**.
+-->
 
 - 📫 How to reach me? Connect with me on [LinkedIn](https://www.linkedin.com/in/milosdjurica/)!
 
