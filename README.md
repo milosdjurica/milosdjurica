@@ -1,9 +1,11 @@
 ![image](https://user-images.githubusercontent.com/98367287/209850264-d007d948-bcd1-4133-8c50-694aaa7859ae.png)
 
 <h1 align="center">Hi there 👋, My name is Miloš Đurica</h1>
-<h2 align="center">I am Front End oriented Software Developer</h2>
+<h2 align="center">I am a Full Stack Software Developer</h2>
 
-- 🔭 I’m currently working on creating a [StableCoin with Foundry.](https://github.com/milosdjurica/stablecoin-foundry)
+<!----
+🔭 I’m currently working on creating a [StableCoin with Foundry.](https://github.com/milosdjurica/stablecoin-foundry) 
+-->
 
 - 🌱 I’m currently learning **Solidity**. If you have any tips and tricks about it, feel free to reach out!
 
