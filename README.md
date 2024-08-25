@@ -11,11 +11,6 @@
 
 - 🌟 As a strong advocate for honesty and fairness, I find the principles of decentralization and blockchain to be an ideal match for my values.
 
-<!--- 
-- 🔭 My latest project is [Humanitarian DAO created with Foundry.](https://github.com/milosdjurica/DAO-humanitarian-funding) 
-
-- 🌱 I’m currently learning about **Smart Contract Security**, trying to get better at writting secure and more gas efficient smart contracts. If you have any tips and tricks about it, feel free to reach out!
---->
 - 👨‍💻 When i have extra time, I enjoy solving coding challenges. You can check my progress on  [Codewars](https://github.com/milosdjurica/codewars) and [Leetcode](https://github.com/milosdjurica/leetcode) repositories.
 
 - 📫 How to reach me? Connect with me on [LinkedIn](https://www.linkedin.com/in/milosdjurica/)!
@@ -24,10 +19,10 @@
 
 
 ## 🛠️ Skills & Technologies
-- **Languages**: Solidity, TypeScript
-- **Frameworks**: Foundry, Hardhat, Next.js, React (it's a library, I know 😉)
-- **Tools**: Remix IDE, MetaMask, Ganache
-<!--- TODO -> add slither, echidna, etc... --->
+- **Languages**: Solidity, TypeScript, Rust
+- **Frameworks**: Foundry, Hardhat, Next.js, React (it's a library, I know 😉), NestJS
+- **Libraries**: Web3, Wagmi, Viem, Ethers.js
+- **Tools**: Remix IDE, MetaMask, Ganache, Slither, Aderyn
 
 ## 🚀 Latest projects
 ### [Humanitarian DAO](https://github.com/milosdjurica/DAO-humanitarian-funding)
@@ -40,7 +35,8 @@ Algorithmic Stablecoin inspired by DAI. Using wETH and wBTC for collateral. Doll
 ## 📚 Currently Learning
 - Advanced Solidity patterns and best practices
 - Smart contract security and gas efficiency
-- Web3 libraries like Wagmi and Viem.
+- Rust and Substrate
+- Yul
 
 
 ## Connect with me  
